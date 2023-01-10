@@ -4,10 +4,15 @@ Welcome to the AI Ethics Project repository! This project aims to explore the et
 
 ## Table of Contents
 
+- [PDF File](#File)
 - [Background](#background)
 - [Goals](#goals)
 - [Contributing](#contributing)
 - [License](#license)
+
+## File
+This is the PDF file containing the project:
+[AI Ethics FINAL PROJECT.pdf](https://github.com/ranystephan/AI-Ethics-Project/files/10378637/AI.Ethics.FINAL.PROJECT.pdf)
 
 ## Background
 
@@ -35,3 +40,5 @@ To contribute, please fork the repository and submit a pull request.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+[AI Ethics FINAL PROJECT.pdf](https://github.com/ranystephan/AI-Ethics-Project/files/10378637/AI.Ethics.FINAL.PROJECT.pdf)
