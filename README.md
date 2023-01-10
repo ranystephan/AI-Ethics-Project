@@ -3,14 +3,14 @@
 Welcome to the AI Ethics Project repository! This project aims to explore the ethical considerations surrounding the development and use of artificial intelligence.
 
 ### Table of Contents
-* ___Background___
+* __Background__
 * __Goals__
 * __Contributing__
 * __License__
-* __Background__
 
 ---
 
+### Background
 Artificial intelligence has the potential to revolutionize many aspects of our lives, but it also raises important ethical questions. How should AI be designed and used in a way that is fair and benefits society as a whole? What are the potential consequences of AI for employment, privacy, and civil liberties? This project aims to address these and other questions by providing a space for discussion and collaboration on the ethical aspects of AI.
 
 ### Goals
